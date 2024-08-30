@@ -25,7 +25,7 @@ import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
 
-import qr from "./qr.png"
+import qr from "./wa.link_g1v0ja.png"
 
 export {
 
